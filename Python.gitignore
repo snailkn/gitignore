@@ -97,3 +97,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# data file
+*.xlsx
+
+# os
+.DS_Store
+.idea/
